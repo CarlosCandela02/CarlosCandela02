@@ -52,7 +52,7 @@ class DataScientist(Professional):
         return model.deploy_to_production(target=business_goal)
 
 ```
-02. // Professional Experience & Applied Research
+### `02.` // Professional Experience & Applied Research
 🧠 AI & Data Engineer @ Matil
 Engineered automated pipelines using Python, Advanced Regex, and LLM Prompt Engineering to extract and structure complex data from energy and gas invoices.
 🌫️ Spatiotemporal Modeling & Time Series (BSc Mathematics TFG)
@@ -69,7 +69,7 @@ Languages & Core
 AI, ML & Stats	
 Tools & Dev	
 
-04. // Architecture & Work Paradigm
+### `04.` // Architecture & Work Paradigm
 ```mermaid
 graph LR
     A[Raw / Unstructured Data] --> B(Preprocessing & Regex / NLP)
