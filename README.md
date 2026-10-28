@@ -70,7 +70,7 @@ AI, ML & Stats
 Tools & Dev	
 
 04. // Architecture & Work Paradigm
-```python
+```mermaid
 graph LR
     A[Raw / Unstructured Data] --> B(Preprocessing & Regex / NLP)
     B --> C{Analytical Core}
