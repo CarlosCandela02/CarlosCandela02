@@ -1,53 +1,80 @@
 <div align="center">
-  <!-- Cabecera dinámica estilo terminal moderna -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,100:1e3a8a&height=200&section=header&text=Carlos%20Candela&fontSize=55&fontColor=f8fafc&animation=fadeIn&fontAlignY=40&desc=Mathematics%20%7C%20Biomedical%20Engineering%20%7C%20AI%20%26%20Big%20Data&descAlignY=65&descSize=18" width="100%" />
+  <!-- Dynamic Terminal Header -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:1e3a8a&height=220&section=header&text=Carlos%20Candela&fontSize=60&fontColor=f8fafc&animation=fadeIn&fontAlignY=40&desc=Mathematician%20%7C%20AI%20%26%20Data%20Scientist%20%7C%20Biomedical%20Engineer&descAlignY=65&descSize=20" width="100%" />
 
-  <!-- Typing SVG dinámico -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=De+los+primeros+principios+matem%C3%A1ticos+al+despliegue+en+producci%C3%B3n;Modelado+Estad%C3%ADstico+%7C+Machine+Learning+%7C+LLM+Engineering;Transformando+datos+complejos+en+decisiones+estrat%C3%A9gicas" alt="Typing SVG" />
+  <!-- Dynamic Typing SVG -->
+  <a href="https://github.com/CarlosCandela02">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Bridging+Mathematical+First+Principles+and+Business+Value;Statistical+Modeling+%7C+Machine+Learning+%7C+LLM+Engineering;Transforming+complex+data+into+actionable+strategies;From+Bayesian+Inference+to+Production-Grade+AI" alt="Typing SVG" />
   </a>
 
   <br/>
 
-  <!-- Badges de contacto minimalistas -->
-  <a href="https://www.linkedin.com/in/TU_USUARIO" target="_blank">
+  <!-- Minimalist Contact Badges -->
+  <a href="https://www.linkedin.com/in/carlos-candela-giner-70126430a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:tu.email@dominio.com">
+  <a href="mailto:candelaginercarlos@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/Ubicación-Valencia,_ES-1e293b?style=for-the-badge&logo=googlemaps&logoColor=38bdf8" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Valencia,_Spain-1e293b?style=for-the-badge&logo=googlemaps&logoColor=38bdf8" alt="Location" />
 </div>
 
 ---
 
-### `01.` // Arquitectura de Perfil
+### `01.` // The Core Philosophy
 
-Más allá de aplicar cajas negras, mi enfoque parte del rigor matemático —entendiendo la formulación teórica, la convergencia y la propagación de la incertidumbre— para diseñar soluciones de Inteligencia Artificial que generen valor de negocio real y medible.
+I build Artificial Intelligence systems grounded in strict mathematical theory—understanding convergence, probabilistic modeling, and uncertainty propagation—to solve real-world business and engineering challenges. 
+
+$$\hat{x}_{k\vert{}k} = \hat{x}_{k\vert{}k-1} + K_k (z_k - H_k \hat{x}_{k\vert{}k-1})$$
+> *The Kalman Filter state update equation: A reminder that optimal decisions require dynamically updating our beliefs as new data arrives.*
 
 ```python
-class DataScientistProfile:
+class DataScientist(Professional):
     def __init__(self):
         self.name = "Carlos Candela"
-        self.academic_core = [
-            "BSc in Mathematics (Universitat de València)",
-            "BSc in Biomedical Engineering",
-            "MSc in Business Management",
-            "MSc in AI, Big Data & Cloud (EDEM)"
-        ]
-        self.mathematical_foundations = {
-            "time_series": ["Dynamic Linear Models (DLMs)", "Kalman Filtering", "Fourier Components"],
-            "biostatistics": ["Survival Analysis", "Cox Proportional Hazards", "Kaplan-Meier"],
-            "paradigms": ["Bayesian Inference", "Stochastic Processes", "Numerical Optimization"]
+        self.education = {
+            "Mathematics": "BSc, Universitat de València",
+            "Biomedical_Eng": "BSc Degree",
+            "Business_Mgmt": "MSc Degree",
+            "AI_BigData_Cloud": "MSc, EDEM"
         }
-        self.ai_engineering = ["LLMs & Prompt Engineering", "Structured Data Extraction", "ML/DL Architectures"]
-
-    def solve(self, problem: ComplexSystem) -> ActionableValue:
+        self.expertise = {
+            "stochastic_processes": ["Dynamic Linear Models", "Kalman Filtering", "Bayesian Inference"],
+            "machine_learning": ["LLM Prompt Engineering", "Random Forests", "Deep Learning"],
+            "biostatistics": ["Survival Analysis", "Cox Proportional Hazards", "Kaplan-Meier"]
+        }
+        
+    def deliver_value(self, raw_data: pd.DataFrame, business_goal: str) -> AI_System:
         """
-        1. Formulación rigurosa del problema desde primeros principios.
-        2. Selección de arquitectura / modelado probabilístico.
-        3. Validación estadística y alineación con métricas de negocio.
+        Translates complex mathematical foundations into actionable, scalable business solutions.
         """
-        hypothesis = self.formulate_state_space(problem)
-        model = self.train_and_validate(hypothesis, rigor="strict")
-        return model.deploy_to_business()
+        model = self._design_architecture(raw_data, rigor="strict")
+        return model.deploy_to_production(target=business_goal)
+02. // Professional Experience & Applied Research
+🧠 AI & Data Engineer @ Matil
+Engineered automated pipelines using Python, Advanced Regex, and LLM Prompt Engineering to extract and structure complex data from energy and gas invoices.
+🌫️ Spatiotemporal Modeling & Time Series (BSc Mathematics TFG)
+Analyzed and forecasted PM 
+2.5
+​	
+  atmospheric pollution in Valencia using Dynamic Linear Models (DLMs), Kalman filtering, and Fourier seasonal components.
+🧬 Clinical Survival Analysis (BSc Biomedical Engineering TFG)
+Developed predictive mortality models for clinical cohorts combining Cox Proportional Hazards, Kaplan-Meier curves, and Random Forest algorithms.
+03. // Technical Arsenal
+Domain	Technologies & Frameworks
+Languages & Core	
+AI, ML & Stats	
+Tools & Dev	
+04. // Architecture & Work Paradigm
+Fragmento de código
+graph LR
+    A[Raw / Unstructured Data] --> B(Preprocessing & Regex / NLP)
+    B --> C{Analytical Core}
+    C -->|Time Series| D[Dynamic Models / Kalman Filters]
+    C -->|Machine Learning| E[Ensemble Models / Deep Learning / LLMs]
+    C -->|Clinical / Risk Modeling| F[Survival Analysis / Bayesian Stats]
+    D --> G[Business Impact & Production]
+    E --> G
+    F --> G
+    style C fill:#1e3a8a,stroke:#38bdf8,stroke-width:2px,color:#fff
+    style G fill:#0d1117,stroke:#10b981,stroke-width:2px,color:#fff
