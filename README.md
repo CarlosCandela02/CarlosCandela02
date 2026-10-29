@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Dynamic Header corregido y codificado -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:1e3a8a&height=220&section=header&text=Carlos%20Candela&fontSize=60&fontColor=f8fafc&animation=fadeIn&fontAlignY=40&desc=Mathematician%20%E2%94%82%20AI%20%26%20Data%20Scientist%20%E2%94%82%20Biomedical%20Engineer&descAlignY=65&descSize=19" width="100%" />
+  <h1>Carlos Candela</h1>
+  <p><strong>Mathematician | AI & Data Scientist | Biomedical Engineer</strong></p>
 
   <!-- Typing SVG -->
   <a href="https://github.com/TU_USUARIO">
