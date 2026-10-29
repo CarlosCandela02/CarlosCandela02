@@ -51,14 +51,15 @@ class DataScientist(Professional):
         model = self._design_architecture(raw_data, rigor="strict")
         return model.deploy_to_production(target=business_goal)
 
-```
+```text
 ### `02.` // Professional Experience & Applied Research
-🧠 AI & Data Engineer @ Matil
-Engineered automated pipelines using Python, Advanced Regex, and LLM Prompt Engineering to extract and structure complex data from energy and gas invoices.
-🌫️ Spatiotemporal Modeling & Time Series (BSc Mathematics Final Project)
-Analyzed and forecasted PM2.5 atmospheric pollution in Valencia using Dynamic Linear Models (DLMs), Kalman filtering, and Fourier seasonal components.
-🧬 Clinical Survival Analysis (BSc Biomedical Engineering TFG)
-Developed predictive mortality models for clinical cohorts combining Cox Proportional Hazards, Kaplan-Meier curves, and Random Forest algorithms.
+
+* 🧠 **AI & Data Engineer @ Matil** 
+  * Engineered automated pipelines using Python, Advanced Regex, and **LLM Prompt Engineering** to extract and structure complex data from energy and gas invoices.
+* 🌫️ **Spatiotemporal Modeling & Time Series (BSc Mathematics TFG)** 
+  * Analyzed and forecasted $PM_{2.5}$ atmospheric pollution in Valencia using **Dynamic Linear Models (DLMs)**, Kalman filtering, and Fourier seasonal components.
+* 🧬 **Clinical Survival Analysis (BSc Biomedical Engineering TFG)** 
+  * Developed predictive mortality models for clinical cohorts combining Cox Proportional Hazards, Kaplan-Meier curves, and **Random Forest** algorithms.
 
 ### `03.` // Technical Arsenal
 
