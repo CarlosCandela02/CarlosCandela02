@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Carlos Candela</h1>
-  <p><strong>Mathematician | AI & Data Scientist | Biomedical Engineer</strong></p>
+  <h1>Carlos Candela Giner</h1>
+  <p><strong>Mathematician | AI & Data Scientist</strong></p>
 
   <!-- Typing SVG -->
   <a href="https://github.com/TU_USUARIO">
