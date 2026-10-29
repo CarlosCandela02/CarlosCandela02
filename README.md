@@ -51,7 +51,7 @@ class DataScientist(Professional):
         model = self._design_architecture(raw_data, rigor="strict")
         return model.deploy_to_production(target=business_goal)
 
-```text
+```
 ### `02.` // Professional Experience & Applied Research
 
 * 🧠 **AI & Data Engineer @ Matil** 
