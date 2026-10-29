@@ -119,7 +119,7 @@ Developed mortality prediction models for clinical cohorts, combining **Cox Prop
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,r,matlab,postgres,pytorch,sklearn,scipy,git,docker,vscode,gcp,bash&perline=12" alt="Skills"/>
+<img src="https://skillicons.dev/icons?i=py,r,matlab,postgres,pytorch,sklearn,numpy,pandas,git,docker,vscode,gcp,bash&perline=13" alt="Skills"/>
 
 </div>
 
@@ -171,9 +171,8 @@ graph LR
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CarlosCandela02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCandela02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages"/>
-
+<a href="https://github.com/CarlosCandela02?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FCarlosCandela02&query=%24.public_repos&label=Public%20repos&color=1e3a8a&style=for-the-badge&logo=github" alt="Public repos"/></a>
+<a href="https://github.com/CarlosCandela02?tab=followers"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FCarlosCandela02&query=%24.followers&label=Followers&color=0f172a&style=for-the-badge&logo=github" alt="Followers"/></a>
 <img src="https://streak-stats.demolab.com?user=CarlosCandela02&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak"/>
 
 </div>
