@@ -119,7 +119,13 @@ Developed mortality prediction models for clinical cohorts, combining **Cox Prop
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,r,matlab,postgres,pytorch,sklearn,numpy,pandas,git,docker,vscode,gcp,bash&perline=13" alt="Skills"/>
+<img src="https://skillicons.dev/icons?i=py,r,matlab,postgres,pytorch,sklearn,git,docker,vscode,gcp,bash&perline=11" alt="Skills"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
 
 </div>
 
