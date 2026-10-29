@@ -56,9 +56,9 @@ class DataScientist(Professional):
 
 * 🧠 **AI & Data Engineer @ Matil** 
   * Engineered automated pipelines using Python, Advanced Regex, and **LLM Prompt Engineering** to extract and structure complex data from energy and gas invoices.
-* 🌫️ **Spatiotemporal Modeling & Time Series (BSc Mathematics TFG)** 
+* 🌫️ **Spatiotemporal Modeling & Time Series (BSc Mathematics Final Project)** 
   * Analyzed and forecasted $PM_{2.5}$ atmospheric pollution in Valencia using **Dynamic Linear Models (DLMs)**, Kalman filtering, and Fourier seasonal components.
-* 🧬 **Clinical Survival Analysis (BSc Biomedical Engineering TFG)** 
+* 🧬 **Clinical Survival Analysis** 
   * Developed predictive mortality models for clinical cohorts combining Cox Proportional Hazards, Kaplan-Meier curves, and **Random Forest** algorithms.
 
 ### `03.` // Technical Arsenal
