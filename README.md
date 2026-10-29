@@ -1,9 +1,9 @@
 <div align="center">
-  <!-- Dynamic Terminal Header -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:1e3a8a&height=220&section=header&text=Carlos%20Candela&fontSize=60&fontColor=f8fafc&animation=fadeIn&fontAlignY=40&desc=Mathematician%20%7C%20AI%20%26%20Data%20Scientist%20%7C%20Biomedical%20Engineer&descAlignY=65&descSize=20" width="100%" />
+  <!-- Dynamic Header corregido y codificado -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:1e3a8a&height=220&section=header&text=Carlos%20Candela&fontSize=60&fontColor=f8fafc&animation=fadeIn&fontAlignY=40&desc=Mathematician%20%E2%94%82%20AI%20%26%20Data%20Scientist%20%E2%94%82%20Biomedical%20Engineer&descAlignY=65&descSize=19" width="100%" />
 
-  <!-- Dynamic Typing SVG -->
-  <a href="https://github.com/CarlosCandela02">
+  <!-- Typing SVG -->
+  <a href="https://github.com/TU_USUARIO">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Bridging+Mathematical+First+Principles+and+Business+Value;Statistical+Modeling+%7C+Machine+Learning+%7C+LLM+Engineering;Transforming+complex+data+into+actionable+strategies;From+Bayesian+Inference+to+Production-Grade+AI" alt="Typing SVG" />
   </a>
 
