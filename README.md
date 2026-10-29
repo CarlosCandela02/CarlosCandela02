@@ -1,7 +1,7 @@
 <!-- ======================= HEADER ======================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:38bdf8&height=220&section=header&text=Carlos%20Candela%20Giner&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Mathematician%20%C2%B7%20AI%20%26%20Data%20Scientist&descSize=20&descAlignY=60&animation=fadeIn" alt="Header" width="100%"/>
+<img src="./assets/banner.svg" alt="Carlos Candela Giner - Mathematician, AI and Data Scientist" width="100%"/>
 
 <a href="https://github.com/CarlosCandela02">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=820&height=50&lines=Bridging+mathematical+first+principles+and+business+value;Statistical+Modeling+%7C+Machine+Learning+%7C+LLM+Engineering;From+Bayesian+inference+to+production-grade+AI;Turning+uncertainty+into+decisions" alt="Typing SVG" />
@@ -189,6 +189,6 @@ I'm interested in roles in **data science, ML engineering and applied AI** acros
 <a href="https://www.linkedin.com/in/carlos-candela-giner-70126430a/"><img src="https://img.shields.io/badge/Let's_talk-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:candelaginercarlos@gmail.com"><img src="https://img.shields.io/badge/Write_me-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e3a8a,100:0f172a&height=100&section=footer" alt="Footer" width="100%"/>
+<img src="./assets/footer.svg" alt="Footer" width="100%"/>
 
 </div>
