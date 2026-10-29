@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="100" viewBox="0 0 1000 100" role="img" aria-label="Footer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="0.5" stop-color="#1e3a8a"/>
+      <stop offset="1" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="100" fill="url(#bg)"/>
+  <path d="M0 60 C 150 20, 300 100, 500 60 S 850 20, 1000 60" fill="none" stroke="#ffffff" stroke-opacity="0.3" stroke-width="2">
+    <animate attributeName="stroke-opacity" values="0.15;0.45;0.15" dur="5s" repeatCount="indefinite"/>
+  </path>
+  <text x="500" y="88" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#ffffff" fill-opacity="0.7" letter-spacing="3">UPDATING BELIEFS, ONE OBSERVATION AT A TIME</text>
+</svg>

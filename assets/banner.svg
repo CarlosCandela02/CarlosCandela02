@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-label="Carlos Candela Giner - Mathematician, AI and Data Scientist">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="0.55" stop-color="#1e3a8a"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1000" height="240" fill="url(#bg)"/>
+  <rect width="1000" height="240" fill="url(#grid)"/>
+
+  <!-- Gaussian curve (Bayesian motif) -->
+  <path d="M600 200 C 660 200, 680 60, 760 60 C 840 60, 860 200, 920 200" fill="none" stroke="#ffffff" stroke-opacity="0.25" stroke-width="2">
+    <animate attributeName="stroke-opacity" values="0.15;0.4;0.15" dur="5s" repeatCount="indefinite"/>
+  </path>
+  <path d="M600 200 C 660 200, 680 60, 760 60 C 840 60, 860 200, 920 200 L920 200 L600 200 Z" fill="#ffffff" fill-opacity="0.05"/>
+
+  <!-- Time series motif -->
+  <polyline points="40,205 100,185 150,195 210,160 260,172 320,140 380,150 440,118" fill="none" stroke="#38bdf8" stroke-opacity="0.55" stroke-width="2" stroke-linejoin="round" stroke-dasharray="600" stroke-dashoffset="600">
+    <animate attributeName="stroke-dashoffset" values="600;0" dur="3s" fill="freeze"/>
+  </polyline>
+
+  <!-- Floating symbols -->
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="28" fill="#ffffff" fill-opacity="0.18">
+    <text x="640" y="50">&#963;&#178;</text>
+    <text x="900" y="90">&#8721;</text>
+    <text x="820" y="40">&#8747;</text>
+    <text x="960" y="200">&#960;</text>
+    <text x="560" y="150">&#955;</text>
+  </g>
+
+  <!-- Title -->
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="60" y="110" font-size="54" font-weight="700" fill="#ffffff">Carlos Candela Giner</text>
+    <text x="62" y="152" font-size="22" fill="#bae6fd" letter-spacing="2">MATHEMATICIAN  &#183;  AI &amp; DATA SCIENTIST</text>
+  </g>
+
+  <rect x="62" y="168" width="360" height="3" rx="1.5" fill="url(#line)">
+    <animate attributeName="width" values="0;360" dur="1.6s" fill="freeze"/>
+  </rect>
+</svg>
