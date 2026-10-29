@@ -1,89 +1,194 @@
+<!-- ======================= HEADER ======================= -->
 <div align="center">
-  <h1>Carlos Candela Giner</h1>
-  <p><strong>Mathematician | AI & Data Scientist</strong></p>
 
-  <!-- Typing SVG -->
-  <a href="https://github.com/TU_USUARIO">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Bridging+Mathematical+First+Principles+and+Business+Value;Statistical+Modeling+%7C+Machine+Learning+%7C+LLM+Engineering;Transforming+complex+data+into+actionable+strategies;From+Bayesian+Inference+to+Production-Grade+AI" alt="Typing SVG" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:38bdf8&height=220&section=header&text=Carlos%20Candela%20Giner&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Mathematician%20%C2%B7%20AI%20%26%20Data%20Scientist&descSize=20&descAlignY=60&animation=fadeIn" alt="Header" width="100%"/>
 
-  <br/>
+<a href="https://github.com/CarlosCandela02">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=820&height=50&lines=Bridging+mathematical+first+principles+and+business+value;Statistical+Modeling+%7C+Machine+Learning+%7C+LLM+Engineering;From+Bayesian+inference+to+production-grade+AI;Turning+uncertainty+into+decisions" alt="Typing SVG" />
+</a>
 
-  <!-- Minimalist Contact Badges -->
-  <a href="https://www.linkedin.com/in/carlos-candela-giner-70126430a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:candelaginercarlos@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Valencia,_Spain-1e293b?style=for-the-badge&logo=googlemaps&logoColor=38bdf8" alt="Location" />
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/carlos-candela-giner-70126430a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:candelaginercarlos@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://img.shields.io/badge/Based_in-Valencia,_Spain-1e293b?style=for-the-badge&logo=googlemaps&logoColor=38bdf8" alt="Location"/>
+<img src="https://img.shields.io/badge/Open_to-Europe-10b981?style=for-the-badge&logo=europeanunion&logoColor=white" alt="Open to Europe"/>
+
+</div>
+
+<br/>
+
+---
+
+## `01.` // The Core Philosophy
+
+> I build AI systems grounded in strict mathematical theory — **convergence, probabilistic modeling and uncertainty propagation** — to solve real business and engineering problems.
+
+$$
+\hat{x}_{k|k} = \hat{x}_{k|k-1} + K_k\left(z_k - H_k\,\hat{x}_{k|k-1}\right), \qquad
+K_k = P_{k|k-1}H_k^\top\left(H_k P_{k|k-1}H_k^\top + R_k\right)^{-1}
+$$
+
+*The Kalman filter update: optimal decisions require continuously revising our beliefs as new data arrives.*
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+```python
+class CarlosCandela(DataScientist):
+    education = {
+        "BSc":  "Mathematics · Universitat de València",
+        "BSc ": "Biomedical Engineering",
+        "MSc":  "Business Management",
+        "MSc ": "AI, Big Data & Cloud · EDEM",
+    }
+    core = {
+        "stochastic": ["Dynamic Linear Models",
+                       "Kalman Filtering",
+                       "Bayesian Inference"],
+        "ml":         ["LLM Engineering",
+                       "Random Forests",
+                       "Deep Learning"],
+        "biostats":   ["Survival Analysis",
+                       "Cox PH", "Kaplan-Meier"],
+    }
+
+    def deliver_value(self, data, goal):
+        model = self.design(data, rigor="strict")
+        return model.deploy(target=goal)
+```
+
+</td>
+<td width="45%" valign="top">
+
+**What drives me**
+
+- 📐 Rigor first: understand *why* a model works before shipping it
+- 🔬 Honest uncertainty: intervals, not just point estimates
+- 🚀 Models that leave the notebook and create value
+- 🌍 Looking for my next challenge in **Europe**
+
+</td>
+</tr>
+</table>
+
+---
+
+## `02.` // Experience & Applied Research
+
+<table>
+<tr>
+<td width="60"><h2>🧠</h2></td>
+<td>
+
+**AI & Data Engineer — Matil**
+Built automated pipelines with **Python, advanced Regex and LLM prompt engineering** to extract and structure complex data from energy and gas invoices.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LLMs](https://img.shields.io/badge/LLM_Engineering-412991?style=flat-square) ![Regex](https://img.shields.io/badge/Regex-0f172a?style=flat-square) ![ETL](https://img.shields.io/badge/Data_Pipelines-38bdf8?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td><h2>🌫️</h2></td>
+<td>
+
+**Spatiotemporal Modeling — BSc Mathematics Final Project**
+Analyzed and forecasted **PM<sub>2.5</sub>** pollution in Valencia with **Dynamic Linear Models**, Kalman filtering and Fourier seasonal components.
+
+![DLM](https://img.shields.io/badge/Dynamic_Linear_Models-1e3a8a?style=flat-square) ![Kalman](https://img.shields.io/badge/Kalman_Filter-1e3a8a?style=flat-square) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td><h2>🧬</h2></td>
+<td>
+
+**Clinical Survival Analysis**
+Developed mortality prediction models for clinical cohorts, combining **Cox Proportional Hazards, Kaplan-Meier curves and Random Forests**.
+
+![Survival](https://img.shields.io/badge/Survival_Analysis-10b981?style=flat-square) ![RF](https://img.shields.io/badge/Random_Forest-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `03.` // Technical Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,r,matlab,postgres,pytorch,sklearn,scipy,git,docker,vscode,gcp,bash&perline=12" alt="Skills"/>
+
+</div>
+
+| Domain | Stack |
+| :-- | :-- |
+| **Languages** | Python · R · MATLAB · SQL |
+| **ML & Statistics** | PyTorch · Scikit-Learn · SciPy · Bayesian inference · State-space models · Survival analysis |
+| **LLMs** | Prompt engineering · Structured extraction · Evaluation |
+| **Cloud & Tools** | GCP · Docker · Git · VS Code · RStudio |
+
+---
+
+## `04.` // Work Paradigm
+
+```mermaid
+graph LR
+    A[Raw / Unstructured Data] --> B(Preprocessing · Regex · NLP)
+    B --> C{Analytical Core}
+    C -->|Time Series| D[Dynamic Models · Kalman Filters]
+    C -->|Machine Learning| E[Ensembles · Deep Learning · LLMs]
+    C -->|Clinical / Risk| F[Survival Analysis · Bayesian Stats]
+    D --> G[Business Impact & Production]
+    E --> G
+    F --> G
+    style A fill:#0f172a,stroke:#64748b,color:#fff
+    style B fill:#0f172a,stroke:#64748b,color:#fff
+    style C fill:#1e3a8a,stroke:#38bdf8,stroke-width:3px,color:#fff
+    style D fill:#0f172a,stroke:#38bdf8,color:#fff
+    style E fill:#0f172a,stroke:#38bdf8,color:#fff
+    style F fill:#0f172a,stroke:#38bdf8,color:#fff
+    style G fill:#064e3b,stroke:#10b981,stroke-width:3px,color:#fff
+```
+
+---
+
+## `05.` // Featured Projects
+
+<!-- Replace the links with your real repositories -->
+
+| Project | What it does | Stack |
+| :-- | :-- | :-- |
+| 🌫️ [**PM2.5 DLM Forecasting**](https://github.com/CarlosCandela02/REPO_PM25) | Probabilistic forecasting of air quality in Valencia with state-space models | `R` `DLM` `Kalman` |
+| 🧾 [**Invoice Extraction with LLMs**](https://github.com/CarlosCandela02/REPO_FACTURAS) | Structured extraction from energy invoices | `Python` `LLM` `Regex` |
+| 🧬 [**Clinical Survival Models**](https://github.com/CarlosCandela02/REPO_SURVIVAL) | Cox PH vs. Random Survival Forests on clinical cohorts | `Python` `R` `Survival` |
+
+---
+
+## `06.` // GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CarlosCandela02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCandela02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=CarlosCandela02&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak"/>
+
 </div>
 
 ---
 
-### `01.` // The Core Philosophy
-
-I build Artificial Intelligence systems grounded in strict mathematical theory—understanding convergence, probabilistic modeling, and uncertainty propagation—to solve real-world business and engineering challenges. 
-
-$$\hat{x}_{k\vert{}k} = \hat{x}_{k\vert{}k-1} + K_k (z_k - H_k \hat{x}_{k\vert{}k-1})$$
-> *The Kalman Filter state update equation: A reminder that optimal decisions require dynamically updating our beliefs as new data arrives.*
-
-```python
-class DataScientist(Professional):
-    def __init__(self):
-        self.name = "Carlos Candela"
-        self.education = {
-            "Mathematics": "BSc, Universitat de València",
-            "Biomedical_Eng": "BSc Degree",
-            "Business_Mgmt": "MSc Degree",
-            "AI_BigData_Cloud": "MSc, EDEM"
-        }
-        self.expertise = {
-            "stochastic_processes": ["Dynamic Linear Models", "Kalman Filtering", "Bayesian Inference"],
-            "machine_learning": ["LLM Prompt Engineering", "Random Forests", "Deep Learning"],
-            "biostatistics": ["Survival Analysis", "Cox Proportional Hazards", "Kaplan-Meier"]
-        }
-        
-    def deliver_value(self, raw_data: pd.DataFrame, business_goal: str) -> AI_System:
-        """
-        Translates complex mathematical foundations into actionable, scalable business solutions.
-        """
-        model = self._design_architecture(raw_data, rigor="strict")
-        return model.deploy_to_production(target=business_goal)
-
-```
-### `02.` // Professional Experience & Applied Research
-
-* 🧠 **AI & Data Engineer @ Matil** 
-  * Engineered automated pipelines using Python, Advanced Regex, and **LLM Prompt Engineering** to extract and structure complex data from energy and gas invoices.
-* 🌫️ **Spatiotemporal Modeling & Time Series (BSc Mathematics Final Project)** 
-  * Analyzed and forecasted $PM_{2.5}$ atmospheric pollution in Valencia using **Dynamic Linear Models (DLMs)**, Kalman filtering, and Fourier seasonal components.
-* 🧬 **Clinical Survival Analysis** 
-  * Developed predictive mortality models for clinical cohorts combining Cox Proportional Hazards, Kaplan-Meier curves, and **Random Forest** algorithms.
-
-### `03.` // Technical Arsenal
+## `07.` // Let's Connect
 
 <div align="center">
 
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages & Core** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **AI, ML & Stats** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) ![OpenAI/LLMs](https://img.shields.io/badge/LLM_Engineering-412991?style=flat-square&logo=openai&logoColor=white) |
-| **Tools & Dev** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white) |
+I'm interested in roles in **data science, ML engineering and applied AI** across Europe.
+
+<a href="https://www.linkedin.com/in/carlos-candela-giner-70126430a/"><img src="https://img.shields.io/badge/Let's_talk-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:candelaginercarlos@gmail.com"><img src="https://img.shields.io/badge/Write_me-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e3a8a,100:0f172a&height=100&section=footer" alt="Footer" width="100%"/>
 
 </div>
-
-### `04.` // Architecture & Work Paradigm
-```mermaid
-graph LR
-    A[Raw / Unstructured Data] --> B(Preprocessing & Regex / NLP)
-    B --> C{Analytical Core}
-    C -->|Time Series| D[Dynamic Models / Kalman Filters]
-    C -->|Machine Learning| E[Ensemble Models / Deep Learning / LLMs]
-    C -->|Clinical / Risk Modeling| F[Survival Analysis / Bayesian Stats]
-    D --> G[Business Impact & Production]
-    E --> G
-    F --> G
-    style C fill:#1e3a8a,stroke:#38bdf8,stroke-width:2px,color:#fff
-    style G fill:#0d1117,stroke:#10b981,stroke-width:2px,color:#fff
-```
