@@ -181,6 +181,14 @@ graph LR
 <a href="https://github.com/CarlosCandela02?tab=followers"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FCarlosCandela02&query=%24.followers&label=Followers&color=0f172a&style=for-the-badge&logo=github" alt="Followers"/></a>
 <img src="https://streak-stats.demolab.com?user=CarlosCandela02&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak"/>
 
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlosCandela02/CarlosCandela02/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarlosCandela02/CarlosCandela02/output/github-snake.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/CarlosCandela02/CarlosCandela02/output/github-snake.svg"/>
+</picture>
+
 </div>
 
 ---
