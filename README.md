@@ -39,8 +39,6 @@ $$
 class CarlosCandela(DataScientist):
     education = {
         "BSc":  "Mathematics · Universitat de València",
-        "BSc ": "Biomedical Engineering",
-        "MSc":  "Business Management",
         "MSc ": "AI, Big Data & Cloud · EDEM",
     }
     core = {
@@ -128,13 +126,6 @@ Developed mortality prediction models for clinical cohorts, combining **Cox Prop
 <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
 
 </div>
-
-| Domain | Stack |
-| :-- | :-- |
-| **Languages** | Python · R · MATLAB · SQL |
-| **ML & Statistics** | PyTorch · Scikit-Learn · SciPy · Bayesian inference · State-space models · Survival analysis |
-| **LLMs** | Prompt engineering · Structured extraction · Evaluation |
-| **Cloud & Tools** | GCP · Docker · Git · VS Code · RStudio |
 
 ---
 
